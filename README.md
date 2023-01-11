@@ -2,4 +2,4 @@
 
 learning how to use git
 
-it is gvivng me a tougj one 
+it is giving me a tough one 
